@@ -1,9 +1,9 @@
-import DigitalClock from "./Clock";
+import ComponentA from "./ComponentA";
 
 function App() {
 
   return(
-    <DigitalClock />
+    <ComponentA />
   );
 
 }
